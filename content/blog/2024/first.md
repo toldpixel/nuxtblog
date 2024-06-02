@@ -12,7 +12,8 @@ head:
     - name: 'copyright'
       content: '© 2022 NuxtLabs'
     - name: 'og:title'
-      content: 'This is an og:title'	  
+      content: 'This is an og:title'
+publishedAt: 2023-06-02 09:32:00	  
 ---
 # First post on our website
 ## Introduction 
